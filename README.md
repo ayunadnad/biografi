@@ -1,2 +1,10 @@
-![alt text](?https://github.com/ayunadnad/biografi/commit/25237cfe710ba054896ff292fea4199a73cd900e#commitcomment-109492126raw=true)
 # biografi
+![bg1](https://user-images.githubusercontent.com/131150906/232793044-05a20590-7327-4393-9a41-bd201b493d9b.png)
+![bg1-scale](https://user-images.githubusercontent.com/131150906/232793054-e9fc3420-7245-4861-ae60-da100f0534c5.jpg)
+![bg2](https://user-images.githubusercontent.com/131150906/232793063-8835bcd8-9a85-4b56-8fe6-c039bc6ba524.png)
+![bg2-scale](https://user-images.githubusercontent.com/131150906/232793068-4ebfc75d-edbf-4ffe-bd09-cde6fba5fa5d.jpg)
+![bg3](https://user-images.githubusercontent.com/131150906/232793088-2c824f01-bc6e-48c4-970b-875391b8e0e6.png)
+![bg3-scale](https://user-images.githubusercontent.com/131150906/232793098-5ec8b591-684f-46fc-8869-b7822846b841.jpg)
+![profil](https://user-images.githubusercontent.com/131150906/232793104-68da8947-a522-48b1-88cb-586f32cc6a3e.jpg)
+![profil](https://user-images.githubusercontent.com/131150906/232793107-c37a3d6e-9a79-451a-a42e-ee9c878e37d8.png)
+![protoprofil](https://user-images.githubusercontent.com/131150906/232793117-73e504d4-6ef8-40df-acba-183cdfa806bc.jpg)
